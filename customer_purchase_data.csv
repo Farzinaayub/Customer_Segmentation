@@ -1,0 +1,201 @@
+CustomerID,Age,Gender,Annual Income (k$),Spending Score (1-100),Total Purchases,Average Purchase Amount ($),Last Purchase (Days Ago),Preferred Product Category
+1,56,Female,49,24,3,65,318,Books
+2,69,Male,57,80,16,359,236,Electronics
+3,46,Female,70,2,23,116,334,Books
+4,32,Male,73,92,11,840,137,Books
+5,60,Male,27,32,12,57,76,Beauty & Health
+6,25,Male,46,91,10,582,35,Groceries
+7,38,Male,46,84,32,346,1,Fashion
+8,56,Female,117,24,16,35,296,Electronics
+9,36,Female,40,12,8,813,320,Beauty & Health
+10,40,Male,49,50,38,266,60,Groceries
+11,28,Male,116,35,12,17,320,Fashion
+12,28,Female,47,33,24,634,349,Fashion
+13,41,Male,83,33,28,876,328,Beauty & Health
+14,70,Male,116,61,8,262,267,Home & Living
+15,53,Male,88,51,28,701,361,Electronics
+16,57,Female,80,43,36,728,229,Fashion
+17,41,Female,67,12,26,312,270,Beauty & Health
+18,20,Female,38,67,8,648,316,Beauty & Health
+19,39,Male,23,65,50,65,286,Groceries
+20,70,Male,54,33,28,735,291,Home & Living
+21,19,Female,83,40,28,535,213,Electronics
+22,41,Female,68,74,37,483,165,Books
+23,61,Female,36,43,41,37,5,Groceries
+24,47,Female,63,44,36,992,339,Fashion
+25,55,Male,111,29,27,87,78,Fashion
+26,19,Female,49,13,17,225,62,Groceries
+27,38,Male,112,12,9,395,132,Beauty & Health
+28,50,Female,65,95,33,374,89,Fashion
+29,29,Male,25,46,20,675,237,Home & Living
+30,39,Female,118,2,13,535,42,Electronics
+31,61,Female,56,35,28,708,89,Home & Living
+32,42,Female,43,87,48,321,296,Fashion
+33,66,Female,112,81,29,892,328,Books
+34,44,Male,65,90,13,16,295,Electronics
+35,59,Female,72,8,46,12,104,Electronics
+36,45,Male,114,93,35,632,14,Groceries
+37,33,Male,118,26,6,928,288,Groceries
+38,32,Male,79,74,18,759,179,Books
+39,64,Male,116,90,5,372,125,Beauty & Health
+40,68,Female,82,34,47,760,353,Electronics
+41,61,Male,104,7,25,517,23,Books
+42,69,Male,51,68,2,283,63,Groceries
+43,20,Male,106,58,10,515,143,Groceries
+44,54,Female,52,75,30,815,153,Electronics
+45,68,Female,86,29,50,748,145,Home & Living
+46,24,Female,37,36,45,892,225,Fashion
+47,38,Female,44,89,5,24,309,Groceries
+48,26,Male,114,21,33,201,104,Beauty & Health
+49,56,Male,73,36,1,994,104,Beauty & Health
+50,35,Female,77,10,18,640,39,Groceries
+51,21,Male,86,73,32,494,198,Home & Living
+52,42,Male,65,24,47,37,134,Home & Living
+53,31,Male,43,64,49,723,67,Books
+54,67,Female,51,99,11,48,179,Beauty & Health
+55,26,Female,66,49,21,962,42,Books
+56,43,Male,105,99,26,282,15,Beauty & Health
+57,70,Female,42,36,25,240,111,Fashion
+58,19,Female,85,82,22,95,157,Fashion
+59,37,Female,46,96,27,483,289,Electronics
+60,45,Female,21,24,49,135,231,Books
+61,64,Female,109,23,13,821,157,Groceries
+62,24,Male,36,62,33,546,38,Books
+63,61,Female,52,96,34,154,97,Groceries
+64,25,Male,28,37,41,534,289,Home & Living
+65,64,Male,62,12,35,221,254,Books
+66,52,Female,67,55,1,34,196,Home & Living
+67,31,Male,58,13,21,589,86,Fashion
+68,34,Male,112,23,48,403,322,Fashion
+69,53,Male,61,89,6,76,10,Electronics
+70,67,Female,45,99,28,242,5,Books
+71,57,Female,118,30,17,118,123,Home & Living
+72,21,Male,69,17,5,155,330,Groceries
+73,19,Female,44,62,31,120,353,Fashion
+74,23,Female,43,84,5,237,118,Fashion
+75,59,Female,32,89,38,120,294,Groceries
+76,21,Female,79,86,3,479,159,Home & Living
+77,46,Male,26,13,23,43,303,Home & Living
+78,35,Male,76,59,37,632,228,Books
+79,43,Female,55,19,37,785,365,Books
+80,61,Female,64,49,10,945,216,Beauty & Health
+81,51,Male,39,100,10,378,184,Beauty & Health
+82,27,Male,84,12,19,757,15,Electronics
+83,53,Female,27,61,17,604,157,Fashion
+84,31,Male,35,19,21,563,136,Books
+85,48,Female,33,76,14,434,261,Home & Living
+86,65,Female,95,9,9,622,157,Groceries
+87,32,Male,106,71,46,527,47,Home & Living
+88,25,Male,34,28,1,701,324,Fashion
+89,31,Female,111,78,45,291,332,Beauty & Health
+90,40,Female,117,95,13,329,173,Home & Living
+91,57,Male,85,52,4,747,130,Electronics
+92,38,Female,51,83,1,452,95,Fashion
+93,33,Male,106,16,49,961,115,Beauty & Health
+94,62,Female,82,69,40,324,243,Groceries
+95,35,Male,105,99,32,886,292,Beauty & Health
+96,64,Male,70,12,34,975,282,Electronics
+97,70,Male,44,25,28,750,299,Fashion
+98,41,Female,77,52,31,386,283,Groceries
+99,43,Female,82,85,8,298,69,Electronics
+100,42,Male,81,100,39,446,148,Beauty & Health
+101,62,Female,41,53,26,671,11,Electronics
+102,58,Male,77,23,34,286,254,Fashion
+103,46,Male,77,16,3,719,330,Books
+104,32,Female,105,57,50,591,360,Electronics
+105,62,Female,68,39,12,512,38,Electronics
+106,18,Male,71,53,1,633,134,Beauty & Health
+107,42,Female,61,42,44,525,200,Beauty & Health
+108,24,Female,89,58,5,359,23,Groceries
+109,26,Male,34,39,30,852,303,Beauty & Health
+110,41,Male,73,14,30,455,346,Home & Living
+111,18,Female,79,95,17,839,302,Fashion
+112,61,Male,120,5,48,359,363,Fashion
+113,25,Male,116,35,47,616,218,Books
+114,41,Female,27,87,23,673,141,Books
+115,28,Male,72,93,15,832,104,Fashion
+116,68,Male,79,75,37,146,210,Books
+117,34,Female,24,18,21,768,111,Groceries
+118,25,Female,87,76,14,908,104,Beauty & Health
+119,52,Male,25,9,2,252,316,Fashion
+120,52,Male,115,74,11,552,171,Books
+121,50,Female,113,58,39,49,356,Fashion
+122,22,Female,66,17,38,238,324,Home & Living
+123,59,Female,118,7,34,557,133,Electronics
+124,56,Female,74,46,38,929,293,Beauty & Health
+125,58,Male,59,13,50,232,328,Fashion
+126,45,Female,71,40,34,15,127,Electronics
+127,24,Female,35,42,18,331,106,Books
+128,26,Male,32,9,30,477,92,Electronics
+129,25,Female,49,50,15,741,287,Beauty & Health
+130,29,Male,38,27,27,84,51,Fashion
+131,51,Female,36,66,34,13,29,Home & Living
+132,50,Female,82,5,38,856,296,Books
+133,65,Female,38,29,33,655,297,Fashion
+134,40,Male,111,37,24,127,214,Beauty & Health
+135,41,Male,77,38,15,890,267,Books
+136,54,Female,74,83,30,615,257,Groceries
+137,52,Male,109,8,42,513,302,Electronics
+138,61,Male,120,65,17,956,101,Beauty & Health
+139,57,Male,109,86,5,583,346,Groceries
+140,39,Male,81,17,29,450,110,Fashion
+141,44,Male,42,71,4,203,182,Home & Living
+142,52,Male,28,89,10,856,313,Books
+143,18,Female,31,45,17,724,1,Electronics
+144,52,Female,20,4,10,401,319,Books
+145,54,Male,77,36,17,35,55,Fashion
+146,64,Female,20,70,20,444,149,Books
+147,31,Female,53,31,24,182,309,Electronics
+148,20,Female,115,19,5,309,137,Fashion
+149,18,Female,67,61,34,654,202,Books
+150,22,Male,108,54,6,335,313,Home & Living
+151,43,Female,20,39,2,419,117,Beauty & Health
+152,31,Female,35,91,13,127,154,Fashion
+153,56,Male,80,74,43,845,291,Beauty & Health
+154,44,Male,83,90,43,796,63,Fashion
+155,26,Female,82,19,48,733,244,Home & Living
+156,32,Female,88,39,11,234,25,Beauty & Health
+157,32,Female,41,67,47,541,90,Groceries
+158,43,Female,112,45,23,122,75,Electronics
+159,59,Female,86,13,16,149,294,Groceries
+160,30,Female,95,92,31,568,210,Books
+161,68,Male,45,58,11,10,347,Home & Living
+162,49,Female,35,20,16,99,17,Groceries
+163,56,Female,70,92,8,663,128,Fashion
+164,66,Male,120,72,4,329,364,Books
+165,69,Male,105,61,40,559,251,Books
+166,49,Male,76,39,4,814,179,Groceries
+167,21,Male,48,1,25,903,182,Groceries
+168,47,Female,97,3,3,148,152,Home & Living
+169,54,Female,111,77,32,520,25,Electronics
+170,40,Female,88,92,3,877,180,Groceries
+171,56,Female,66,62,27,854,198,Groceries
+172,62,Female,113,63,29,268,344,Beauty & Health
+173,32,Female,81,25,32,682,161,Fashion
+174,60,Male,88,56,50,911,177,Beauty & Health
+175,46,Female,95,33,19,699,285,Beauty & Health
+176,53,Male,35,38,21,19,63,Books
+177,30,Male,109,6,5,270,150,Electronics
+178,49,Female,109,58,18,928,154,Fashion
+179,24,Male,67,44,28,659,156,Home & Living
+180,68,Female,104,45,42,181,49,Home & Living
+181,39,Male,58,32,22,907,337,Groceries
+182,45,Female,119,45,21,22,84,Groceries
+183,19,Male,52,61,6,177,361,Home & Living
+184,59,Female,113,47,1,651,177,Groceries
+185,62,Female,120,21,5,605,148,Electronics
+186,70,Female,42,80,41,330,118,Beauty & Health
+187,23,Female,29,85,12,328,342,Groceries
+188,45,Female,88,75,26,622,63,Books
+189,45,Male,119,36,46,338,189,Groceries
+190,61,Male,53,99,34,794,360,Fashion
+191,61,Male,71,19,49,786,49,Electronics
+192,37,Female,114,20,14,980,327,Fashion
+193,47,Male,29,57,26,920,257,Fashion
+194,28,Female,38,18,45,929,224,Books
+195,45,Female,77,47,27,559,141,Electronics
+196,42,Male,115,49,9,428,215,Electronics
+197,56,Male,20,14,26,615,211,Electronics
+198,50,Female,88,15,47,104,318,Electronics
+199,18,Male,23,31,22,826,32,Electronics
+200,44,Female,35,1,47,590,158,Books
