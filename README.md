@@ -1,4 +1,4 @@
-# Customer Segmenattion using Kmeans
+# Customer Segmentation using Kmeans
 
 This project utilizes K-means clustering to segment customers based on their behavior and attributes. Customer segmentation is a valuable strategy for businesses to tailor their marketing, services, and product offerings to different customer groups.
 
